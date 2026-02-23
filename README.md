@@ -10,7 +10,7 @@ I am passionate about the universe's fundamental questions and how we can use co
 
 ### 🚀 What I'm Focusing On
 
-* 🔭 **Core Interests:** Quantum Computing, Astrophysics, and Gravitational Waves.
+* 🔭 **Core Interests:** Cosmology , Astrophysics, and Gravitational Waves.
 * 🌱 **Currently Learning:** I'm building my foundational skills in advanced mathematics, classical mechanics, and data analysis for physics applications.
 * 💡 **Actively Seeking:** I am currently looking for winter internship/research opportunities where I can contribute to a project and learn from experienced mentors.
 
@@ -26,7 +26,6 @@ I am passionate about the universe's fundamental questions and how we can use co
 
 * **Languages:** Python
 * **Data/Lab Tools:** Numpy, Scipy, Matplotlib, Jupyter
-* **Quantum Tools:** Currently learning Qiskit
 * **Other:** LaTeX (for writing papers/reports)
 
 ---
